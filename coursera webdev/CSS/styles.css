@@ -1,0 +1,134 @@
+/*body{
+  background: #B3B3B3;
+  font-size: 150%;
+  margin: 1%;
+}
+
+h1{
+  font-size: 120%;
+}
+
+header{
+  background: #00B7EA;
+  text-align: center;
+  padding: 7px;
+}
+
+h1{
+  font-size: 150%;
+  color: #FFFFFF;
+}
+
+nav{
+  font-variant: small-caps;
+  font-size: 150%;
+  font-family: Arial, "Times New Roman",serif;
+}
+
+h2{
+  color: #666666;
+  background: #00B7EA;
+}
+
+section{
+  display: inline-block;
+  width: 30%;
+  float: left;
+  margin-right: 2%;
+}
+
+details{
+  font-style: italic;
+}
+
+summary{
+  font-style: normal;
+}
+
+img{
+  width: 7%;
+}
+footer{
+  background: #00B7EA;
+  clear: both;
+}
+*/
+
+body{
+  background: #B3B3B3;
+  margin: 1%;
+}
+
+header{
+  text-align: center;
+  padding: 7px;
+}
+
+h1{
+  color: #ffffff;
+  font-size: 250%;
+  margin-top: 0px;
+}
+
+nav{
+  font-size: 200%;
+  font-variant: small-caps;
+}
+
+nav a{
+  background: #ffffff;
+  display: inline-block;
+  width: 22%;
+}
+
+h2{
+  background: #00B7EA;
+  font-size: 200%;
+}
+
+.half{
+  display: inline-block;
+  float: left;
+  width: 45%;
+  margin-right: 30px;
+}
+
+li{
+  font-size: 130%;
+}
+
+p{
+  font-size: 130%;
+}
+
+.whole{
+  clear: both;
+}
+
+details{
+  font-size: 130%;
+  font-style: italic;
+}
+
+summary{
+  font-style: normal;
+  padding: 8px;
+}
+
+img{
+  width: 5%;
+}
+
+footer{
+  padding-bottom: 40px;
+  clear: both;
+}
+
+header, footer{
+	background: #666666;
+	background: -moz-linear-gradient(top, #666666 0%, #00b7ea 100%);
+	background: -webkit-linear-gradient(#666666 0%, #00b7ea 100%);
+	background: -o-linear-gradient(#666666 0%, #00b7ea 100%);
+	background: linear-gradient(#666666 0%, #00b7ea 100%);
+
+}
